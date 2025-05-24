@@ -52,6 +52,7 @@ Read, write, and manage data flow efficiently without loading everything into me
     Open your web browser and go to: `http://127.0.0.1:8080`
 
 ## Sample Terminal Output
+```
 Server online, listening on http://127.0.0.1:8080
 Accepted connection from ('127.0.0.1', 51662)
 --- Request received ---
@@ -72,3 +73,4 @@ Accept-Encoding: gzip, deflate, br, zstd
 Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
 
 Connection with ('127.0.0.1', 51662) closed.
+```
